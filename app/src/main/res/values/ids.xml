@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Activity_Main_Layout" type="id">Activity Main Layout</item>
+    <item name="white" type="id">white</item>
+</resources>
